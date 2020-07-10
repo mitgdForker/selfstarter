@@ -72,7 +72,7 @@ GEM
       pry (>= 0.9.10)
     rack (1.5.5)
     rack-test (0.6.3)
-      rack (>= 1.0)
+      rack (> 2.1.0)
     rails (4.0.3)
       actionmailer (= 4.0.3)
       actionpack (= 4.0.3)
